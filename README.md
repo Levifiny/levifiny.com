@@ -36,6 +36,8 @@ For the Apple Developer Program enrolment, the website to give is `https://levif
 - [ ] **Read every page once in both languages.** The French is Canadian French in the same wording as the Batchbell app.
 - [ ] When Batchbell is live, change "Coming soon to the App Store" / "Bientôt sur l'App Store" (Home, Apps and Batchbell pages, both languages) to a link to its App Store page.
 
+Where the company is: only the business address on the two Contact pages says so. The rest of the site does not mention a province or country, so Levifiny reads as a company for everyone.
+
 What the site deliberately leaves out: shareholders, share details, the corporation number, directors and anything else from the incorporation documents beyond the name "Levifiny Inc." and the province.
 
 ## Editing
