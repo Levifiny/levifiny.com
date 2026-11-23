@@ -721,16 +721,6 @@ code.subject {
   color: var(--heading);
 }
 
-/* The address is not public yet. Replace the whole <div class="placeholder"> when it is. */
-.placeholder {
-  border: 2px dashed var(--horizon-amber);
-  background: #fff4e3;
-  border-radius: var(--radius-small);
-  padding: 14px 18px;
-  color: #7a4a10;
-  font-weight: 600;
-}
-
 address {
   font-style: normal;
 }

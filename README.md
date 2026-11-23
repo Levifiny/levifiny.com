@@ -32,13 +32,7 @@ For the Apple Developer Program enrolment, the website to give is `https://levif
 
 ## Before publishing
 
-- [ ] **Business address.** `contact/index.html` and `fr/contact/index.html` each have a dashed orange box marked `TODO ADDRESS`. Replace the whole `<div class="placeholder">…</div>` with the address, for example:
-
-  ```html
-  <address>123 Example Street<br>Ottawa, Ontario  K1A 0A1<br>Canada</address>
-  ```
-
-  Search the folder for `TODO ADDRESS` to find both. Use the address you want public (it does not have to be the registered office), and keep it the same as on your D-U-N-S record if Apple compares them.
+- [x] **Business address.** On both Contact pages: 1000 Innovation Drive, Suite 500, Kanata, Ontario K2K 3E7, Canada (in French, "bureau 500" and "Kanata (Ontario)", as Canada Post writes it). Keep it the same as on your D-U-N-S record.
 - [ ] **Read every page once in both languages.** The French is Canadian French in the same wording as the Batchbell app.
 - [ ] When Batchbell is live, change "Coming soon to the App Store" / "Bientôt sur l'App Store" (Home, Apps and Batchbell pages, both languages) to a link to its App Store page.
 
