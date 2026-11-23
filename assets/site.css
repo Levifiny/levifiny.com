@@ -700,10 +700,16 @@ body:not(.bb) .ticks li::after {
 
 /* Contact */
 
-.email {
-  font-size: clamp(1.15rem, 4.5vw, 1.5rem);
-  font-weight: 700;
+/* The address sits quietly under the email button, as in the app ("Or write to …") */
+.or-write {
+  margin: 12px 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
   word-break: break-word;
+}
+
+.or-write a {
+  color: inherit;
 }
 
 code.subject {
